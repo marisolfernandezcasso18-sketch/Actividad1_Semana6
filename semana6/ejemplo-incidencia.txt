@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Los vecinos reportan un hundimiento crítico en la calle principal que afecta el paso de los vehículos y genera riesgo de accidentes."
+}

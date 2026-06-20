@@ -1,0 +1,9 @@
+Es importante porque cuando una plataforma recibe información es necesario que
+este estructurada, es de esta manera que se puede saber que ruta tomar en corto 
+tiempo, esto es lo que conocemos como automatización. En una comunidad cuando se 
+presentan situaciones que requieren de acciones inmediatas, los datos estructurados
+evitan que las personas entren en panico, lo anterior refleja la fundamentabilidad
+de estructurar la información y transformarla en quejas informales, datos útiles y 
+operativos, en estos casos los el diseño de formularios APIs es garantizar recolectar
+información que permita que las alertas que lleguen a los servidores de Express tengan
+la información mínima necesaria para ser accionables.
