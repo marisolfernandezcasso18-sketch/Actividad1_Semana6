@@ -1,5 +1,3 @@
 {
-  "estado": "Datos recibidos",
-  "nombre": "Julieta",
-  "mensaje": "Hola comunidad"
+  "estado": "Datos recibidos"
 }
